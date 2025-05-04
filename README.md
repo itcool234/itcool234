@@ -1,9 +1,13 @@
-Hi, I’m @itcool234  
-- 👀 I’m interested in cybersecurity architecture, network security engineering, and incident response automation  
-- 🌱 I’m currently learning advanced Azure and OCI security integration, and exploring AI-driven threat detection  
-- 💞️ I’m looking to collaborate on SOP/playbook automation, firewall migrations, and SIEM log enrichment projects  
-- 📫 How to reach me:gocong@gmail.com  
-- ⚡ Fun fact: I enjoy playing 80s rock guitar solos when I’m not analyzing PCAPs
+I'm a Cybersecurity Principal Engineer focused on network security, cloud integration, and threat detection. I use GitHub to share automation scripts, SOPs, and best practices related to firewalls, SIEM, and secure infrastructure design.
+
+---
+
+- 👀 **Interests:** Cybersecurity architecture, zero trust networking, incident response, cloud security (Azure/OCI), and automation
+- 🌱 **Currently Learning:** Advanced Azure security controls, OCI firewall provisioning, and AI-assisted threat detection
+- 💞️ **Open to Collaborate On:** SOP/playbook automation, firewall migration toolkits, Splunk/EDR integration, and security infrastructure documentation
+- 📫 **Reach Me At:** gocong@gmail.com
+- ⚡ **Fun Fact:** I unwind by playing 80s rock guitar solos after securing networks and analyzing PCAPs
+
 
 
 <!---
